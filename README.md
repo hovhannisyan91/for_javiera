@@ -16,3 +16,20 @@ demo repo to show how git and GitHub works
 for i in range(5):
     print(i)
 ```
+
+
+## How it works?
+
+
+1. Create a virtual env
+   
+```bash
+conda create venv_something
+```
+
+2. Activate virtual env
+
+```bash
+conda activate venv_something
+```
+
